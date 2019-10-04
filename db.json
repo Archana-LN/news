@@ -1,0 +1,15 @@
+{
+  "news":[
+  {
+  "id":1,
+  "category" : "Sports",
+  "content": "Sports content"
+  },
+   {
+  "id":2,
+  "category" : "Health",
+  "content": "Health content"
+  }
+  
+  ]
+}
